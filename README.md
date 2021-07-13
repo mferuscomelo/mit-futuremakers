@@ -1,6 +1,7 @@
 # MIT FutureMakers
 
 ## Responses
+<!-- TODO: add links to daily action items, supplemental activities, and other repos -->
 
 ### Day 1 (06.07.2021)
 I am looking forward to learning more about AI and its ethical impact on society. I am also hoping the apply the knowledge and skills learned during this program to hands-on project to ensure that I properly understand the material.
@@ -24,6 +25,21 @@ This well-planned seminar inspired me to share my own story and experience to be
 The Scikit-Learn library is built on top of visualization libraries like Pandas and Graphviz. Therefore, data analysis libraries need to be installed prior to using Scikit-Learn.
 
 ### Day 4 (09.07.2021)
+<!-- TODO: reformat this section -->
 I'm currently developing a model to detect falls using deep learning, which will be deployed to an Arduino. The binary classification model uses a combination of a Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM) for time series prediction. I am using the [SisFall dataset](http://sistemic.udea.edu.co/en/research/projects/english-falls/) which consists of data collected from two accelerometers and one gyroscope.
 
 The biggest hurdle I am facing is the low processing power of the Arduino. I managed to train a model that can detect falls with over 99.5% accuracy, though the computation requirements for feature extraction proved to be too high for the Arduino to handle. I have therefore switched to using deep learning and am training the model on raw data. More information on the project can be found here: [https://github.com/mferuscomelo/fall-detection](https://github.com/mferuscomelo/fall-detection)
+
+### Day 7 (12.07.2021)
+#### **What are "Tensors" and what are they used for in Machine Learning?**
+Tensors are data-structures that can be visualized as n-dimensional arrays, with n > 2. We only call structures with 3 dimensions or more "Tensors" so as to not confuse them with lower-dimensional structures such as matrices, vectors, and scalars.  
+
+![Difference between a scalar, a vector, a matrix and a tensor](/images/scalar-vector-matrix-tensor.png "Difference between a scalar, a vector, a matrix and a tensor")
+
+Tensors usually contain numerical data and are the backbone of neural networks. All transformations of a neural network can be reduced to tensor operations.
+
+#### **What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?**
+The datasets had to be processed before training the model so that it could better identify the relationships between the data. This process is called feature extraction or feature engineering.
+
+## Sources
+[Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
