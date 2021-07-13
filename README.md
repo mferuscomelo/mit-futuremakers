@@ -1,7 +1,6 @@
 # MIT FutureMakers
 
 ## Responses
-<!-- TODO: add links to daily action items, supplemental activities, and other repos -->
 
 ### Day 1 (06.07.2021)
 I am looking forward to learning more about AI and its ethical impact on society. I am also hoping the apply the knowledge and skills learned during this program to hands-on project to ensure that I properly understand the material.
@@ -15,7 +14,7 @@ This well-planned seminar inspired me to share my own story and experience to be
 
 ### Day 3 (08.07.2021)
 #### **Action Item:** 
-[Decision Tree Classifier](/decision-tree-classifier/)
+- [Decision Tree Classifier](/decision-tree-classifier/)
 
 #### **What is the difference between supervised and unsupervised learning?**
 | Supervised Learning                                                                    | Unsupervised Learning                                                                                  |
@@ -28,7 +27,7 @@ This well-planned seminar inspired me to share my own story and experience to be
 The Scikit-Learn library is built on top of visualization libraries like Pandas and Graphviz. Therefore, data analysis libraries need to be installed prior to using Scikit-Learn.
 
 #### **Supplemental Activity:** 
-[Predicting Housing Prices](/predicting-housing-prices/)
+- [Predicting Housing Prices](/predicting-housing-prices/)
 
 ### Day 4 (09.07.2021)
 #### **Real World Problem:** 
@@ -43,14 +42,14 @@ I'm currently developing a model to detect falls using deep learning, which will
 The biggest hurdle I am facing is the low processing power of the Arduino. I managed to train a model that can detect falls with over 99.5% accuracy, though the computation requirements for feature extraction proved to be too high for the Arduino to handle. I have therefore switched to using deep learning and am training the model on raw data. More information on the project can be found here: [https://github.com/mferuscomelo/fall-detection](https://github.com/mferuscomelo/fall-detection)
 
 #### **Supplemental Activity:** 
-Read this [article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+- Read this [article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 ### Day 7 (12.07.2021)
 
 #### **Lesson Plan:** 
-[TensorFlow Basics](/tensorflow-basics/)
-[Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
-[Wine Identification](https://github.com/mferuscomelo/wine-identification)
+- [TensorFlow Basics](/tensorflow-basics/)
+- [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
+- [Wine Identification](https://github.com/mferuscomelo/wine-identification)
 
 #### **What are "Tensors" and what are they used for in Machine Learning?**
 Tensors are data-structures that can be visualized as n-dimensional arrays, with n > 2. We only call structures with 3 dimensions or more "Tensors" so as to not confuse them with lower-dimensional structures such as matrices, vectors, and scalars.  
