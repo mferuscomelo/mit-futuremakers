@@ -11,6 +11,8 @@ There are 3 types of callings: A call of us (community), self (leadership), and 
 This well-planned seminar inspired me to share my own story and experience to become a supportive and encouraging visionary leader. 
 
 ## Day 3 (08.07.2021)
+### ***Lesson Plan***
+- Reviewed ML models with this [article](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 ### ***Action Item:*** 
 - [Decision Tree Classifier](/decision-tree-classifier/)
 
