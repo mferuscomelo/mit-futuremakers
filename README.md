@@ -65,5 +65,11 @@ The datasets had to be processed before training the model so that it could bett
 ### ***Action Item:*** 
 - [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
 
+### Day 9 (14.07.2021)
+#### ***Lesson Plan:*** 
+- Learned about CNNs using this [cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Visualized](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) how CNNs work with handwritten digits
+- [What is a confusion matrix?](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
