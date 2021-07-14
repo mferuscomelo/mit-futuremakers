@@ -64,8 +64,7 @@ The datasets had to be processed before training the model so that it could bett
 
 ### Day 8 (13.07.2021)
 #### ***Lesson Plan:*** 
-- Read this [guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) to deep learning and neural networks
-
+- Reviewed [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) about common components of neural networks and how they work with different ML functions and algorithms. 
 ### ***Action Item:*** 
 - [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
 
