@@ -30,6 +30,8 @@ The Scikit-Learn library is built on top of visualization libraries like Pandas 
 - [Predicting Housing Prices](/predicting-housing-prices/)
 
 ## Day 4 (09.07.2021)
+### ***Lesson Plan***
+- Gained a high level understanding of DL models and algorithms through [this article](https://serokell.io/blog/deep-learning-and-neural-network-guide)
 ### ***Real World Problem:*** 
 According to the [WHO](https://www.who.int/news-room/fact-sheets/detail/falls), an estimated 684 000 fatal falls occur each year, making it the second leading cause of unintentional injury death, after road traffic injuries. However, not all falls are fatal, with 37.3 million falls being severe enough to require medical attention. With so many people being injured or killed each year by falls, it is of great social significance to provide them with accurate, dependable, and effective procedures to mitigate the effects of falls. 
 
