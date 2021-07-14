@@ -71,5 +71,8 @@ The datasets had to be processed before training the model so that it could bett
 - [Visualized](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) how CNNs work with handwritten digits
 - [What is a confusion matrix?](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
 
+#### ***Action Item:*** 
+- [MNIST Digits Classification](https://github.com/mferuscomelo/mnist-digits-classification)
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
