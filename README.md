@@ -43,7 +43,6 @@ The biggest hurdle I am facing is the low processing power of the Arduino. I man
 - Read this [article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 ### Day 7 (12.07.2021)
-
 #### ***Lesson Plan:*** 
 - [TensorFlow Basics](/tensorflow-basics/)
 - [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
@@ -58,6 +57,13 @@ Tensors usually contain numerical data and are the backbone of neural networks. 
 
 ### ***What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?***
 The datasets had to be processed before training the model so that it could better identify the relationships between the data. This process is called feature extraction or feature engineering.
+
+### Day 8 (13.07.2021)
+#### ***Lesson Plan:*** 
+- Read this [guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) to deep learning and neural networks
+
+### ***Action Item:*** 
+- [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
 
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
