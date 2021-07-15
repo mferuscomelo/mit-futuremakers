@@ -86,5 +86,9 @@ The datasets had to be processed before training the model so that it could bett
 ### ***Action Item:*** 
 - [MNIST Digits Classification](https://github.com/mferuscomelo/mnist-digits-classification)
 
+## Day 10 (15.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed [presentation](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture19-bias.pdf) on algorithmic bias
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
