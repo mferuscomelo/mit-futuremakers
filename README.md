@@ -46,8 +46,8 @@ The biggest hurdle I am facing is the low processing power of the Arduino. I man
 ### ***Supplemental Activity:*** 
 - Read this [article](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) on the difference between AI and ML.
 
-### Day 7 (12.07.2021)
-#### ***Lesson Plan:*** 
+## Day 7 (12.07.2021)
+### ***Lesson Plan:*** 
 - [TensorFlow Basics](/tensorflow-basics/)
 - [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
 - [Wine Identification](https://github.com/mferuscomelo/wine-identification)
@@ -62,19 +62,19 @@ Tensors usually contain numerical data and are the backbone of neural networks. 
 ### ***What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?***
 The datasets had to be processed before training the model so that it could better identify the relationships between the data. This process is called feature extraction or feature engineering.
 
-### Day 8 (13.07.2021)
-#### ***Lesson Plan:*** 
+## Day 8 (13.07.2021)
+### ***Lesson Plan:*** 
 - Reviewed [this guide](https://serokell.io/blog/deep-learning-and-neural-network-guide) about common components of neural networks and how they work with different ML functions and algorithms. 
 ### ***Action Item:*** 
 - [Sarcasm detection](https://github.com/mferuscomelo/sarcasm-detection)
 
-### Day 9 (14.07.2021)
-#### ***Lesson Plan:*** 
+## Day 9 (14.07.2021)
+### ***Lesson Plan:*** 
 - Learned about CNNs using this [cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - [Visualized](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html) how CNNs work with handwritten digits
 - [What is a confusion matrix?](https://machinelearningmastery.com/confusion-matrix-machine-learning/)
 
-#### ***Action Item:*** 
+### ***Action Item:*** 
 - [MNIST Digits Classification](https://github.com/mferuscomelo/mnist-digits-classification)
 
 ## Sources
