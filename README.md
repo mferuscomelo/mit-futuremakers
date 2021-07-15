@@ -1,5 +1,14 @@
 # MIT FutureMakers
 
+## July 2021
+|          Mon          |          Tue          |          Wed          |          Thu          |          Fri          |Sat |Sun |
+|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:--:|:--:|
+|                       |                       |                       |          01           |          02           | 03 | 04 |
+|          05           | [06](#day-1-06072021) | [07](#day-2-07072021) | [08](#day-3-08072021) | [09](#day-4-09072021) | 10 | 11 |
+| [12](#day-7-12072021) | [13](#day-8-13072021) | [14](#day-9-14072021) |          15           |          16           | 17 | 18 |
+|          19           |          20           |          21           |          21           |          23           | 24 | 25 |
+|          26           |          27           |          28           |          29           |          30           | 31 |    |
+
 ## Day 1 (06.07.2021)
 I am looking forward to learning more about AI and its ethical impact on society. I am also hoping the apply the knowledge and skills learned during this program to hands-on project to ensure that I properly understand the material.
 
