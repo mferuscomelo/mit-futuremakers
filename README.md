@@ -105,6 +105,10 @@ In 2015, Google's image classification algorithm for Google Photos misclassified
 
 This example was an event that showed me that algorithms aren't as infallible as we might think. They propagate biases present in the data they see, some of which might not be noticed by humans. In the informational game [survival of the best fit](https://www.survivalofthebestfit.com/), there was a slight bias towards hiring orange people and rejecting blue people. This, combined with the fact that "Google's" hiring processes was used in the dataset without checking for bias, meant that the algorithm trained on the data amplified these biases to the point of making orange people almost twice as likely as blue people to be hired.  
 
+## Day 11 (16.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed [CNN Architecture](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
 
