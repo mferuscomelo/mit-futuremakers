@@ -109,6 +109,9 @@ This example was an event that showed me that algorithms aren't as infallible as
 ### ***Lesson Plan:*** 
 - Reviewed [CNN Architecture](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 
+### ***Action Item:*** 
+- Improved [MNIST Digit Classification](https://github.com/mferuscomelo/mnist-digits-classification) algorithm and added option to make predictions in the notebook
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
 
