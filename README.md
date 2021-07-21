@@ -131,6 +131,11 @@ This example was an event that showed me that algorithms aren't as infallible as
 ### ***Choosing an activation function for an output layer***
 ![Choosing an activation function for an output layer](/images/activation-function-output.png "Choosing an activation function for an output layer")
 
+### ***What are some advantages of the Rectified Linear activation function? State a use case.***
+The ReLU has become the most used activation function for hidden layers.The function is simple to use and efficient at overcoming the drawbacks of earlier popular activation functions such as sigmoid and tanh. It is less prone to vanishing gradients, which prohibit deep models from being trained, however it can suffer from other issues such as saturated or "dead" units.
+
+The ReLU activation function can be used in hidden layers for multilayer perceptrons and convolutional neural networks.
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
