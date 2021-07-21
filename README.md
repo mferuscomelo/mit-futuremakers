@@ -136,6 +136,10 @@ The ReLU has become the most used activation function for hidden layers.The func
 
 The ReLU activation function can be used in hidden layers for multilayer perceptrons and convolutional neural networks.
 
+## Day 16 (21.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed [article](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/) on the importance of ethics in the real-world context of AI and automation.
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
