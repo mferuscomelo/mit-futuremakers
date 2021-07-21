@@ -125,6 +125,12 @@ This example was an event that showed me that algorithms aren't as infallible as
 - Reviewed [article](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/) on choosing activation functions
 - Learned [how to implement the ReLU activation function](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
 
+### ***Choosing an activation function for a hidden layer***
+![Choosing an activation function for a hidden layer](/images/activation-function-hidden.png "Choosing an activation function for a hidden layer")
+
+### ***Choosing an activation function for an output layer***
+![Choosing an activation function for an output layer](/images/activation-function-output.png "Choosing an activation function for an output layer")
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
@@ -137,6 +143,10 @@ This example was an event that showed me that algorithms aren't as infallible as
 
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
+
+[Choosing an activation function for a hidden layer](https://www.kaggle.com/discussion/212325)
+
+[Choosing an activation function for an output layer](https://www.kaggle.com/discussion/212325)
 
 <a id="footnote-1">1</a>: Goodman, Rachel. “Why Amazon's Automated Hiring Tool Discriminated Against Women.” American Civil Liberties Union, American Civil Liberties Union, 15 Oct. 2018, www.aclu.org/blog/womens-rights/womens-rights-workplace/why-amazons-automated-hiring-tool-discriminated-against.  
 
