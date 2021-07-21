@@ -117,6 +117,9 @@ This example was an event that showed me that algorithms aren't as infallible as
 - Read [article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) on choosing loss functions
 - Watched [lecture](https://www.youtube.com/watch?v=h7iBpEHGVNc) and reviewed [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf) on loss functions and optimization
 
+### ***Action Item:*** 
+- [Housing Prices Prediction](https://github.com/mferuscomelo/housing-price-prediction)
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
