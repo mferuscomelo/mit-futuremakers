@@ -117,6 +117,11 @@ This example was an event that showed me that algorithms aren't as infallible as
 - Read [article](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/) on choosing loss functions
 - Watched [lecture](https://www.youtube.com/watch?v=h7iBpEHGVNc) and reviewed [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture3.pdf) on loss functions and optimization
 
+## Resources
+### Cheatsheets
+- [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+- [CNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
 
