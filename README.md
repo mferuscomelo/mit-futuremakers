@@ -120,6 +120,11 @@ This example was an event that showed me that algorithms aren't as infallible as
 ### ***Action Item:*** 
 - [Housing Prices Prediction](https://github.com/mferuscomelo/housing-price-prediction)
 
+## Day 15 (20.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed [article](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/) on choosing activation functions
+- Learned [how to implement the ReLU activation function](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
