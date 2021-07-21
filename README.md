@@ -129,6 +129,7 @@ This example was an event that showed me that algorithms aren't as infallible as
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 - [CNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [Activation functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 
 ### Datasets
 - [Public datasets](https://docs.google.com/spreadsheets/d/1qYjOWt39m6r3DpMYx3kespQRVgT6icn5tALXHrztbY4/edit?usp=sharing)
