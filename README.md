@@ -140,6 +140,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Lesson Plan:*** 
 - Reviewed [article](https://hub.packtpub.com/machine-learning-ethics-what-you-need-to-know-and-what-you-can-do/) on the importance of ethics in the real-world context of AI and automation.
 
+### ***Action Item:*** 
+- [Gender recognition from faces](https://github.com/mferuscomelo/gender-recognition-face)
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
