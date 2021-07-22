@@ -156,6 +156,18 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Gender recognition from faces](https://github.com/mferuscomelo/gender-recognition-face)
 
+
+## All Projects
+- [Flower Classification](/decision-tree-classifier/)
+- [Predicting Housing Prices](/predicting-housing-prices/)
+- [TensorFlow Basics](/tensorflow-basics/)
+- [Belgian Traffic Sign Classification](https://github.com/mferuscomelo/traffic-signs-classification)
+- [Wine Identification](https://github.com/mferuscomelo/wine-identification)
+- [Sarcasm Detection](https://github.com/mferuscomelo/sarcasm-detection)
+- [MNIST Digits Classification](https://github.com/mferuscomelo/mnist-digits-classification)
+- [Housing Prices Classification](https://github.com/mferuscomelo/housing-price-prediction)
+- [Gender Recognition from Faces](https://github.com/mferuscomelo/gender-recognition-face)
+
 ## Resources
 ### Cheatsheets
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
