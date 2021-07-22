@@ -21,6 +21,7 @@ This 6-week virtual program provided me with a unique opportunity to build AI so
 |           26           |           27           |           28           |           29           |           30           | 31 |    |
 
 ## Day 01 (06.07.2021)
+### ***What do you hope to learn from this program?***
 I am looking forward to learning more about AI and its ethical impact on society. I am also hoping the apply the knowledge and skills learned during this program to hands-on project to ensure that I properly understand the material.
 
 ## Day 02 (07.07.2021)
