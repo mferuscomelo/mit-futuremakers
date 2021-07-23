@@ -158,6 +158,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Gender recognition from faces](https://github.com/mferuscomelo/gender-recognition-face)
 
+## Day 17 (22.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed different image classification techniques through this [article](https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/)
 
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
