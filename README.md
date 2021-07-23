@@ -178,6 +178,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - [Loss functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 - [CNN cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - [Activation functions cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+- [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ### Datasets
 - [Public datasets](https://docs.google.com/spreadsheets/d/1qYjOWt39m6r3DpMYx3kespQRVgT6icn5tALXHrztbY4/edit?usp=sharing)
