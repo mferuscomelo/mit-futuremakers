@@ -9,7 +9,7 @@ The FutureMakers program, which started on July 6th, 2021 includes:
 - Regular tech talks and career readiness seminars.
 - Entrepreneurship and leadership skills development
 
-This 6-week virtual program provided me with a unique opportunity to build AI solutions that tackle some of today’s most pressing challenges. The MIT RAISE Initiative and SureStart are excited to push the STEM and Innovation pipeline back even further by creating an amazing opportunity for eager 6-8th graders who are interested in learning AI concepts.
+This 6-week virtual program provided me with a unique opportunity to build AI solutions that tackle some of today’s most pressing challenges.
 
 [Here is a list of all projects that I worked on during this program](#all-projects)
 
