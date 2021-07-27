@@ -165,6 +165,10 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Animal Classification](https://github.com/mferuscomelo/animal-classification)
 
+## Day 18 (23.07.2021)
+### ***Lesson Plan:*** 
+- Learned [how to avoid overfitting](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
