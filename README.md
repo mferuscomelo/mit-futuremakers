@@ -175,6 +175,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - [MNIST Digits Classification](https://github.com/mferuscomelo/mnist-digits-classification)
 - [Housing Prices Classification](https://github.com/mferuscomelo/housing-price-prediction)
 - [Gender Recognition from Faces](https://github.com/mferuscomelo/gender-recognition-face)
+- [Animal Classification](https://github.com/mferuscomelo/animal-classification)
 
 ## Resources
 ### Cheatsheets
