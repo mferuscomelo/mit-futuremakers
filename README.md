@@ -162,6 +162,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Lesson Plan:*** 
 - Reviewed different image classification techniques through this [article](https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/)
 
+### ***Action Item:*** 
+- [Animal Classification](https://github.com/mferuscomelo/animal-classification)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
