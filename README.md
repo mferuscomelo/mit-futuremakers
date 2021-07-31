@@ -173,6 +173,11 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Sentiment Analysis](https://github.com/mferuscomelo/sentiment-analysis)
 
+## Day 21 (26.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed a [tutorial](https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/) on upsampling
+- Learned about [autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
