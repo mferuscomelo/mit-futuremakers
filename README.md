@@ -168,6 +168,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ## Day 18 (23.07.2021)
 ### ***Lesson Plan:*** 
 - Learned [how to avoid overfitting](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+- Read about the [ethics of machine learning](https://towardsdatascience.com/ethics-in-machine-learning-9fa5b1aadc12)
 
 ### ***Action Item:*** 
 - [Sentiment Analysis](https://github.com/mferuscomelo/sentiment-analysis)
