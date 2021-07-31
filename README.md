@@ -181,6 +181,11 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Autoencoders](https://github.com/mferuscomelo/autoencoders)
 
+## Day 22 (27.07.2021)
+### ***Lesson Plan:*** 
+- Watched a [TED Talk](https://www.youtube.com/watch?v=ujxriwApPP4) on the origins of Affective Computing
+- Read about the [EMPath Makeathon](https://mysurestart.com/case-study)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
