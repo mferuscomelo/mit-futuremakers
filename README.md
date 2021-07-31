@@ -193,6 +193,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - [Gender Recognition from Faces](https://github.com/mferuscomelo/gender-recognition-face)
 - [Animal Classification](https://github.com/mferuscomelo/animal-classification)
 - [Sentiment Analysis](https://github.com/mferuscomelo/sentiment-analysis)
+- [Autoencoders](https://github.com/mferuscomelo/autoencoders)
 
 ## Resources
 ### Cheatsheets
