@@ -196,6 +196,10 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Movie Review Classifier](https://github.com/mferuscomelo/movie-review-classifier)
 
+## Day 24 (29.07.2021)
+### ***Lesson Plan:*** 
+- Watched [this TED talk](https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/reading-list?language=en)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
