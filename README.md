@@ -189,6 +189,10 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Action Item:*** 
 - [Speech Emotion Analyzer](https://github.com/mferuscomelo/speech-emotion-analyzer)
 
+## Day 23 (28.07.2021)
+### ***Lesson Plan:*** 
+- Reviewed [this guide](https://medium.com/@calebkaiser/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0) on applied NLP projects
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
