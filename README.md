@@ -186,6 +186,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - Watched a [TED Talk](https://www.youtube.com/watch?v=ujxriwApPP4) on the origins of Affective Computing
 - Read about the [EMPath Makeathon](https://mysurestart.com/case-study)
 
+### ***Action Item:*** 
+- [Speech Emotion Analyzer](https://github.com/mferuscomelo/speech-emotion-analyzer)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
