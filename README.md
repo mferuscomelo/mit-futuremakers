@@ -24,6 +24,16 @@ The last two weeks were a create-a-thon for which my team developed an app to ai
 | [19](#day-14-19072021) | [20](#day-15-20072021) | [21](#day-16-21072021) | [22](#day-17-22072021) | [23](#day-18-23072021) | 24 | 25 |
 | [26](#day-21-26072021) | [27](#day-22-27072021) | [28](#day-23-28072021) | [29](#day-24-29072021) |           30           | 31 |    |
 
+### August 2021
+|           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:--:|:--:|
+|                        |                        |                        |                        |                        |    | [01](#weeks-5--6-02082021---14082021) |
+| [03](#weeks-5--6-02082021---14082021) | [03](#weeks-5--6-02082021---14082021) | [04](#weeks-5--6-02082021---14082021) | [05](#weeks-5--6-02082021---14082021) | [06](#weeks-5--6-02082021---14082021) | [07](#weeks-5--6-02082021---14082021) | [08](#weeks-5--6-02082021---14082021) |
+| [09](#weeks-5--6-02082021---14082021) | [10](#weeks-5--6-02082021---14082021) | [11](#weeks-5--6-02082021---14082021) | [12](#weeks-5--6-02082021---14082021) | [13](#weeks-5--6-02082021---14082021) | 14 | 15 |
+|           16           |           17           |           18           |           19           |           20           | 21 | 22 |
+|           23           |           24           |           25           |           26           |           27           | 28 | 29 |
+|           30           |           31           |                        |                        |                        |    |    |
+
 ## Day 01 (06.07.2021)
 ### ***What do you hope to learn from this program?***
 I am looking forward to learning more about AI and its ethical impact on society. I am also hoping the apply the knowledge and skills learned during this program to hands-on project to ensure that I properly understand the material.
