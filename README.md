@@ -229,6 +229,7 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - [Kaggle](https://www.kaggle.com/datasets)
 
 ## Misc
+- [Intro to ML](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [Python Handbook](https://www.pythonlikeyoumeanit.com/)
 
 ## Sources
