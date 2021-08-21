@@ -228,6 +228,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 - [Public datasets](https://docs.google.com/spreadsheets/d/1qYjOWt39m6r3DpMYx3kespQRVgT6icn5tALXHrztbY4/edit?usp=sharing)
 - [Kaggle](https://www.kaggle.com/datasets)
 
+## Misc
+- [Python Handbook](https://www.pythonlikeyoumeanit.com/)
+
 ## Sources
 [Difference between a scalar, a vector, a matrix and a tensor](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
 
