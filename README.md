@@ -13,6 +13,8 @@ This 6-week virtual program provided me with a unique opportunity to build AI so
 
 [Here is a list of all projects that I worked on during this program](#all-projects)
 
+The last two weeks were a create-a-thon for which my team developed an app to aid the visually impaired in finding objects using object detection and speech recognition. More information on the project as well as the source code can be found here: [https://github.com/mferuscomelo/ai-spy](https://github.com/mferuscomelo/ai-spy)
+
 ### July 2021
 |           Mon          |           Tue          |           Wed          |           Thu          |           Fri          |Sat |Sun |
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:--:|:--:|
