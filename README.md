@@ -202,6 +202,9 @@ The ReLU activation function can be used in hidden layers for multilayer percept
 ### ***Lesson Plan:*** 
 - Watched [this TED talk](https://www.ted.com/talks/rana_el_kaliouby_this_app_knows_how_you_feel_from_the_look_on_your_face/reading-list?language=en)
 
+## Weeks 5 & 6 (02.08.2021 - 14.08.2021)
+The last two weeks were a create-a-thon for which my team developed an app to aid the visually impaired in finding objects using object detection and speech recognition. More information on the project as well as the source code can be found here: [https://github.com/mferuscomelo/ai-spy](https://github.com/mferuscomelo/ai-spy)
+
 ## All Projects
 - [Flower Classification](/decision-tree-classifier/)
 - [Predicting Housing Prices](/predicting-housing-prices/)
